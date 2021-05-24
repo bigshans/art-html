@@ -1,0 +1,20 @@
+{
+  "name": "art-html",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node index.js",
+    "build": "PARSER_STATUS=dists node index.js"
+  },
+  "dependencies": {
+    "art-template": "^4.13.2",
+    "fs-extra": "^10.0.0"
+  },
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.9",
+    "express": "^4.17.1",
+    "node-watch": "^0.7.1",
+    "ws": "^7.4.5"
+  }
+}
