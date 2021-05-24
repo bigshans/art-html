@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/github/issues/bigshans/art-html) ![](https://img.shields.io/github/forks/bigshans/art-html) ![](https://img.shields.io/github/stars/bigshans/art-html) ![](https://img.shields.io/github/license/bigshans/art-html)
 
-English Version | [中文版](./READEME-ZH.md)
+English Version | [中文版](./README-ZH.md)
 
 art-html is a minimalist framework for generating static web pages based on art-template which is a simple template engine. You only need to clone the code and develop it in the `src` directory.
 
